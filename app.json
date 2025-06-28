@@ -1,6 +1,6 @@
 {
-    "name": "بوت ميوزك مجاني",
-    "description": "سورس ميوزك عفرتو",
+    "name": "بوت ميوزك راكان",
+    "description": "سورس ميوزك راكان",
     "logo": "https://telegra.ph/file/04b2f1f1c808dc49db35b.jpg",
     "keywords": [
     "python3",
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/T_Y_E_X",
+        "value": "https://t.me/+fD9UDpzeWt9lMjU6",
         "required": false
       }
     },
